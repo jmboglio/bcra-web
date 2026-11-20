@@ -1,0 +1,4 @@
+name: bcra
+type: duckdb
+options:
+  filename: web.duckdb
