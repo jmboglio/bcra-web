@@ -1,0 +1,17 @@
+{
+  "generado_en": "2026-11-21T13:35:01+00:00",
+  "fechas_de_corte": {
+    "balance_ief": "2026-08-01",
+    "api_monetarias": "2026-11-16"
+  },
+  "filas": {
+    "monitor_series": 722,
+    "entidades": 74,
+    "grupos": 275,
+    "balance": 74,
+    "eerr_rubros": 755,
+    "mapeo_eerr": 14
+  },
+  "tamanio_mb": 2.11,
+  "sha256": "c8a35dacd80db67ec207257fccfdc58c3b949de94feeb23baa185da4f3c533eb"
+}
