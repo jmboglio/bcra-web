@@ -4,8 +4,8 @@
   "private": true,
   "description": "Web pública del Repositorio BCRA (Evidence clásico, sitio estático)",
   "scripts": {
-    "build": "evidence build",
-    "build:strict": "evidence build:strict",
+    "build": "evidence build && node scripts/wasm-cdn.mjs",
+    "build:strict": "evidence build:strict && node scripts/wasm-cdn.mjs",
     "dev": "evidence dev --open /",
     "sources": "evidence sources",
     "sources:strict": "evidence sources --strict",
